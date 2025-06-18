@@ -1,6 +1,6 @@
 # Desafio Super Trunfo - Países 🌍
 
-Este projeto foi desenvolvido para a disciplina de [NOME DA DISCIPLINA] da Estácio.  
+Este projeto foi desenvolvido para a disciplina de Introdução à Programação de Computadores da Estácio.  
 O objetivo é representar cartas de países no estilo Super Trunfo, utilizando a linguagem C.
 
 ## Objetivo
